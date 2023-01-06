@@ -12,7 +12,7 @@ To get started:
 4) modify s variable in src/index.js to test other bitsequences
 
 
-The goal of this project is to test any random given bitsequence with Five basic tests from "Handbook of Applied Cryptography". If all five tests pass, then bitsequence is considered "accepted" as being random, if it doesn't pass all tests, then it is considered to be "rejected" as being random.
+The goal of this project is to test any random given binary bitsequence with Five basic tests from "Handbook of Applied Cryptography". If all five tests pass, then bitsequence is considered "accepted" as being random, if it doesn't pass all tests, then it is considered to be "rejected" as being random.
 
 There are five tests that are being run:
 1) Frequency test (mono-bit test), which goal is to test if the number of 0's and 1's is approximately the same.
