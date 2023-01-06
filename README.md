@@ -1,5 +1,6 @@
 # five_basic_tests
 Five basic tests (statistical) from "Handbook of Applied Cryptography"
+https://cacr.uwaterloo.ca/hac/about/chap5.pdf
 
 prerequisites:
 * have node.js installed
