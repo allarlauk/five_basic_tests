@@ -18,3 +18,5 @@ There are five tests that are being run:
 2) Serial test (two-bit test), which goal is to test number of unique 2-bit sequences to be approximately the same.
 3) Poker test, which goal is to test, whether the number of unique bitsequences length m such that Math.floor(n/m) >= 5 * (2**m), where n is length of bitsequence s and m is the length of sequence m within s.
 4) Runs test, which goal is to determine that number of runs of 0's and 1's of various lengths in sequence is as expected for random sequence.
+5) Autocorrelation test, which goal is to check the differences between bit values and shifted versions of them.
+
