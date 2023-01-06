@@ -68,6 +68,7 @@ function isTestPassed (degreesOfFreedom , statisticResult, criticalValue, x) {
    * X5 approximately follows an N(0, 1) distribution if n − d ≥ 10
    */
   statisticResult = statisticResult.toFixed(4)
+  statisticResult = parseFloat(statisticResult)
   switch (x) {
   case "x1":
     if (statisticResult < criticalValue) {
