@@ -1,0 +1,11 @@
+{
+  "name": "five-basic-tests",
+  "version": "1.0.0",
+  "description": "Five basic tests (statistical) from \"Handbook of Applied Cryptography\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index"
+  },
+  "author": "Allar Lauk",
+  "license": "ISC"
+}
